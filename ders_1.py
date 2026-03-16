@@ -5,3 +5,5 @@ gecen_notlar=test_sonuclari[test_sonuclari>50]
 gecen_notlar+=10
 gecen_notlar.mean()
 test_sonuclari.mean()
+
+#burada kskdsdksdsd
